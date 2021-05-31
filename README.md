@@ -1,2 +1,2 @@
-# sc-signature-lib-loader
-Smartcard signature library loader
+# Smartcard signature library loader
+Temporary page for "Smartcard signature library loader"
